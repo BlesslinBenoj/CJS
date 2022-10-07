@@ -1,6 +1,6 @@
 
 
-// pascal case = Person
+// pascal case = MyFirstName
 
 function Person(name){
 
