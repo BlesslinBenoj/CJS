@@ -1,5 +1,5 @@
 
-//FOR LOOP 
+//FOR LOOP IN JAVA
 
 
 //for(initialExpression; condition; step){
