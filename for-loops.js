@@ -1,5 +1,5 @@
 
-//FOR LOOP IN JAVASCRIPT
+//FOR LOOP IN JAVASCRI
 
 
 //for(initialExpression; condition; step){
