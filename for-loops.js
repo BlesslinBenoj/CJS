@@ -1,3 +1,7 @@
+
+//FOR LOOP IN JAVASCRIPT
+
+
 //for(initialExpression; condition; step){
 //  console.log("");
 // }
