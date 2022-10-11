@@ -1,4 +1,4 @@
-//function
+//functions
 
 function greetuser(firstname,lastname){
 
