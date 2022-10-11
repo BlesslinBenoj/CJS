@@ -1,3 +1,6 @@
+//array
+
+
 let favColors = ["red","blue","green","black"]
 
 
