@@ -1,4 +1,4 @@
-//fu
+//func
 
 function greetuser(firstname,lastname){
 
