@@ -1,4 +1,4 @@
-//func
+//functi
 
 function greetuser(firstname,lastname){
 
