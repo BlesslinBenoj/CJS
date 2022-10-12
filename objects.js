@@ -1,4 +1,4 @@
-//obje
+//object
 
 
 let person = {
