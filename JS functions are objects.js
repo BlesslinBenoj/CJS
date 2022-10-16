@@ -1,4 +1,4 @@
-
+//Javascript functions are objects
 
 function Person (name , age){
 
