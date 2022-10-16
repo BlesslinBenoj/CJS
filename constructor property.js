@@ -1,5 +1,5 @@
  
-//Constructor
+//Constructor property
 
 // let name = "Blesslin";  //new String ("Blesslin")
 // let age = 21;  // number literals = new Number ()
