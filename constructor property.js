@@ -1,4 +1,7 @@
- // let name = "Blesslin";  //new String ("Blesslin")
+ 
+
+
+// let name = "Blesslin";  //new String ("Blesslin")
 // let age = 21;  // number literals = new Number ()
 // let isAlive = true; // boolean literals = new Boolean ()
 
